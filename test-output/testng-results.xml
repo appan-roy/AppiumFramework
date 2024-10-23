@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81002" started-at="2020-08-01T00:27:27 IST" finished-at="2020-08-01T00:28:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81002" started-at="2020-08-01T00:27:27 IST" finished-at="2020-08-01T00:28:48 IST">
+      <class name="tests.LoginTest2">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:tests.LoginTest2@7a1ebcd8]" name="reportSetup" is-config="true" duration-ms="505" started-at="2020-08-01T00:27:27 IST" finished-at="2020-08-01T00:27:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginTest2@7a1ebcd8]" name="setUp" is-config="true" duration-ms="37356" started-at="2020-08-01T00:27:27 IST" finished-at="2020-08-01T00:28:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginToOrangeHRM()[pri:0, instance:tests.LoginTest2@7a1ebcd8]" name="LoginToOrangeHRM" duration-ms="41317" started-at="2020-08-01T00:28:05 IST" finished-at="2020-08-01T00:28:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginTest2@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="2177" started-at="2020-08-01T00:28:46 IST" finished-at="2020-08-01T00:28:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="reportTeardown()[pri:0, instance:tests.LoginTest2@7a1ebcd8]" name="reportTeardown" is-config="true" duration-ms="1467" started-at="2020-08-01T00:28:48 IST" finished-at="2020-08-01T00:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTeardown -->
+      </class> <!-- tests.LoginTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
